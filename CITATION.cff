@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+
+title: "Aurora Robust Speech Recognition Using MFCC, PNCC and Discriminative Model Combination"
+
+message: "If you use this repository, please cite the associated publication."
+
+type: software
+
+authors:
+  - family-names: "Belabbas"
+    given-names: "Soumeya"
+  - family-names: "Addou"
+    given-names: "Djamel"
+
+repository-code: "https://github.com/BelSou01/aurora-robust-speech-recognition"
+
+keywords:
+  - Aurora
+  - robust speech recognition
+  - MFCC
+  - PNCC
+  - discriminative model combination
+  - DMC
+  - HMM
+  - distributed speech recognition
+
+references:
+  - type: article
+    authors:
+      - family-names: "Belabbas"
+        given-names: "Soumeya"
+      - family-names: "Addou"
+        given-names: "Djamel"
+    title: "Weighting Schemes Based Discriminative Model Combination Technique for Robust Speech Recognition"
+    year: 2022
+    doi: "10.1007/978-3-030-92038-8_43"
